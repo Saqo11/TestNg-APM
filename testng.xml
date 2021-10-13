@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite1" parallel="tests" thread-count="2">
+
+    <test name="test on browser">
+        <parameter name="browserName" value="chrome"> </parameter>
+        <classes>
+            <class name="tsts.GoalsTest"/>
+        </classes>
+    </test> <!-- Test1 -->
+
+</suite> <!-- Suite1 -->
