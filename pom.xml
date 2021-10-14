@@ -37,11 +37,8 @@
                     <testFailureIgnore>true</testFailureIgnore>
                     <forkMode>once</forkMode>
                     <suiteXmlFiles>
-                        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
                         <suiteXmlFile>C:\Users\QA\Desktop\APM\testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
-                    <skipTests>${skipTests}</skipTests>
-                    <testFailureIgnore>true</testFailureIgnore>
                 </configuration>
             </plugin>
         </plugins>
