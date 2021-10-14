@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-10-13T15:55:52 AMT" name="Suite1" finished-at="2021-10-13T15:56:06 AMT" duration-ms="14030">
+  <suite started-at="2021-10-14T09:01:23 AMT" name="Suite1" finished-at="2021-10-14T09:01:38 AMT" duration-ms="15504">
     <groups>
     </groups>
-    <test started-at="2021-10-13T15:55:52 AMT" name="test on browser" finished-at="2021-10-13T15:56:06 AMT" duration-ms="14030">
+    <test started-at="2021-10-14T09:01:23 AMT" name="test on browser" finished-at="2021-10-14T09:01:38 AMT" duration-ms="15504">
       <class name="tsts.GoalsTest">
-        <test-method is-config="true" signature="start(java.lang.String)[pri:0, instance:tsts.GoalsTest@1ff4931d]" started-at="2021-10-13T15:55:52 AMT" name="start" finished-at="2021-10-13T15:55:55 AMT" duration-ms="2943" status="PASS">
+        <test-method is-config="true" signature="start(java.lang.String)[pri:0, instance:tsts.GoalsTest@574b560f]" started-at="2021-10-14T09:01:23 AMT" name="start" finished-at="2021-10-14T09:01:28 AMT" duration-ms="5372" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method signature="signeIn()[pri:0, instance:tsts.GoalsTest@1ff4931d]" started-at="2021-10-13T15:55:55 AMT" name="signeIn" finished-at="2021-10-13T15:56:05 AMT" duration-ms="10072" status="PASS">
+        <test-method signature="signeIn()[pri:0, instance:tsts.GoalsTest@574b560f]" started-at="2021-10-14T09:01:28 AMT" name="signeIn" finished-at="2021-10-14T09:01:37 AMT" duration-ms="9223" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signeIn -->
-        <test-method is-config="true" signature="close()[pri:0, instance:tsts.GoalsTest@1ff4931d]" started-at="2021-10-13T15:56:05 AMT" name="close" finished-at="2021-10-13T15:56:06 AMT" duration-ms="953" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:tsts.GoalsTest@574b560f]" started-at="2021-10-14T09:01:37 AMT" name="close" finished-at="2021-10-14T09:01:38 AMT" duration-ms="848" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
