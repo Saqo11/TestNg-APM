@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-14T11:49:25 AMT" name="Suite1" finished-at="2021-10-14T11:49:52 AMT" duration-ms="27580">
+    <groups>
+    </groups>
+    <test started-at="2021-10-14T11:49:25 AMT" name="test on browser" finished-at="2021-10-14T11:49:52 AMT" duration-ms="27580">
+      <class name="tsts.GoalsTest">
+        <test-method is-config="true" signature="start(java.lang.String)[pri:0, instance:tsts.GoalsTest@cd1e646]" started-at="2021-10-14T11:49:25 AMT" name="start" finished-at="2021-10-14T11:49:29 AMT" duration-ms="3781" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="signeIn()[pri:0, instance:tsts.GoalsTest@cd1e646]" started-at="2021-10-14T11:49:29 AMT" name="signeIn" finished-at="2021-10-14T11:49:51 AMT" duration-ms="21931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signeIn -->
+        <test-method is-config="true" signature="close()[pri:0, instance:tsts.GoalsTest@cd1e646]" started-at="2021-10-14T11:49:51 AMT" name="close" finished-at="2021-10-14T11:49:52 AMT" duration-ms="1225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tsts.GoalsTest -->
+    </test> <!-- test on browser -->
+  </suite> <!-- Suite1 -->
+</testng-results>
