@@ -3,7 +3,7 @@
 <suite name="Suite1" parallel="tests" thread-count="2">
 
     <test name="test on browser">
-        <parameter name="browserName" value="remoteDriver"> </parameter>
+        <parameter name="browserName" value="chrome"> </parameter>
         <classes>
             <class name="tsts.GoalsTest"/>
         </classes>
